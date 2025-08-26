@@ -8,5 +8,6 @@ public class FirstDayOfProgramming {
     	System.out.println("Hello Students!");
     	System.out.println("Hi, I'm Mr. Zebrack");
     	System.out.println("My favorite sport is Quidditch!!");
+    	int x = 5;
     }
 }
