@@ -7,5 +7,6 @@ public class FirstDayOfProgramming {
     public static void main(String[] args) {
     	System.out.println("Hello Students!");
     	System.out.println("Hi, I'm Mr. Zebrack");
+    	System.out.println("My favorite sport is Quidditch!!");
     }
 }
